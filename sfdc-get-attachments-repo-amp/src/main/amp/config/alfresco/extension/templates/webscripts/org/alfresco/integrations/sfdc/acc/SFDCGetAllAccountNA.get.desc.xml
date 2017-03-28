@@ -1,0 +1,10 @@
+<webscript>
+    <shortname>Get All Notes and Attachments from Salesforce Accounts</shortname>
+    <description>Get All Notes and Attachments from Salesforce Accounts</description>
+    <url>/sfdc/extension/getAccountNA</url>
+    <lifecycle>internal</lifecycle>
+    <authentication>user</authentication>
+    <format default="html" />
+    <transaction>requiresnew</transaction>
+    <family>sfdc-acc</family>
+</webscript>

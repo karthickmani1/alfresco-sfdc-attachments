@@ -1,0 +1,10 @@
+<webscript>
+    <shortname>Get Notes and Attachments from Salesforce</shortname>
+    <description>Returns</description>
+    <url>/sfdc/extension/objects/{object}/{id}?fields={fields}</url>
+    <lifecycle>internal</lifecycle>
+    <authentication>user</authentication>
+    <format default="html" />
+    <transaction>requiresnew</transaction>
+    <family>sfdc-acc</family>
+</webscript>

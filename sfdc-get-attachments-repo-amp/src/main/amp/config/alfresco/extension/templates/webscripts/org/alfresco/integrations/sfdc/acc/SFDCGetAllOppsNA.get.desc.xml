@@ -1,0 +1,10 @@
+<webscript>
+    <shortname>Get All Notes and Attachments from Salesforce Opportunities</shortname>
+    <description>Get All Notes and Attachments from Salesforce Opportunities</description>
+    <url>/sfdc/extension/getOpportunityNA</url>
+    <lifecycle>internal</lifecycle>
+    <authentication>user</authentication>
+    <format default="html" />
+    <transaction>requiresnew</transaction>
+    <family>sfdc-acc</family>
+</webscript>
