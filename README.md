@@ -17,5 +17,4 @@ SFDCWebscript - is used to retrieve all the Notes & Attachments of an Account/Op
 SFDCAccountJobExecuter - the scheduled job is run to retrieve all the Accounts object's Notes & Attachments from Salesforce
 
 SFDCOpportunityJobExecuter - the scheduled job is run to retrieve all the Opportunities object's Notes & Attachments from Salesforce
-# alfresco-salesforce-attachments
-# aps-salesforce-attachments
+
